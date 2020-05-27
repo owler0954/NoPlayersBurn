@@ -1,0 +1,7 @@
+{
+  "name": "NoPlayersBurn plugin",
+  "author": "_owler_#0954",
+  "main": "NoPlayersBurn.NoPlayersBurn",
+  "description": "A plugin to disallow withdrawing coal,pyratite and blast compound.",
+  "version": 1.0
+}
